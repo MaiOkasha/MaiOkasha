@@ -53,9 +53,9 @@ Git · VS Code · Android Studio · Firebase · Jira · Trello · Figma
 
 <div style="background-color:#FFF0F5; padding:15px; border-radius:12px;">
 
-- 🧩 I love working on complex projects — I treat them like puzzles, breaking them down into elegant, solvable pieces.  
-- 🎨 I enjoy playing with colors — vibrant, visually rich projects make me feel alive and inspired.  
-- 🌱 I love trying new things — especially when life feels off.  
+- 🧩 I love working on complex projects - I treat them like puzzles, breaking them down into elegant, solvable pieces.  
+- 🎨 I enjoy playing with colors - vibrant, visually rich projects make me feel alive and inspired.  
+- 🌱 I love trying new things - especially when life feels off.  
 </div>
 
 ---
