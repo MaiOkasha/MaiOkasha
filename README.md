@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center" style="color:#DA70D6; margin-bottom: 8px;">🌸 Mai Okasha 🌸</h1>
-<h3 align="center" style="margin-top: 0;">Manual & Automation Testing · Flutter Developer</h3>
+<h3 align="center" style="margin-top: 0;">Manual & Automation Testing · Flutter Development</h3>
 
 
 
@@ -16,6 +16,7 @@ A storyteller through test cases.
 
 
 I'm a passionate **QA Engineer** with a strong foundation in software engineering and a sharp eye for detail.  
+
 🔍I specialize in:
 - Manual & API Testing  
 - SQL Validation & Database Testing  
