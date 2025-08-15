@@ -23,7 +23,7 @@ I'm a passionate **QA Engineer** with a strong foundation in software engineerin
 - Test Automation (Selenium, Appium)  
 - Flutter Development
 
-✨ Whether it's writing test cases or validating APIs,  
+✨ Whether it's writing test cases or automating test scripts,  
 I bring **clarity**, **creativity**, and **care** to every step.
 ---
 
