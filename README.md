@@ -48,22 +48,3 @@ Git · VS Code · Android Studio · Firebase · Jira · Trello · Figma
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaiOkasha&theme=radical" height="160"/>
 </p>
 
-
-## 🎈 Fun Facts
-
-<div style="background-color:#FFF0F5; padding:15px; border-radius:12px;">
-
-- 🧩 I love working on complex projects - I treat them like puzzles, breaking them down into elegant, solvable pieces.  
-- 🎨 I enjoy playing with colors - vibrant, visually rich projects make me feel alive and inspired.  
-- 🌱 I love trying new things - especially when life feels off.  
-</div>
-
----
-
-## 📬 Let's Connect
-
-💌 **Email:** maiokasha930@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/mai-okasha/)  
-🐙 [GitHub](https://github.com/MaiOkasha)  
-
----
