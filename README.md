@@ -30,10 +30,10 @@ I bring **clarity**, **creativity**, and **care** to every step.
 ## 🧰 My Toolkit
 
 ✨ **Languages & Logic**  
-Java · Dart · SQL · PHP  
+Java · Dart · SQL · PHP . Python 
 
 🛠️ **Testing Arsenal**  
-Postman · Selenium · Appium · JUnit · Google Sheets  
+Postman · Selenium · Appium · JUnit · TestNG . Pytest 
 
 🗄️ **Databases I Tame**  
 MySQL · Oracle · SQLite · Firestore  
