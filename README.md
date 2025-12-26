@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=700&lines=Hi+I'm+Mai+Okasha+%F0%9F%91%8B;QA+Engineer+%7C+Flutter+Developer;Turning+Tests+into+Confidence+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
-<h1 align="center" style="color:#DA70D6; margin-bottom: 8px;">🌸 Mai Okasha 🌸</h1>
 <h3 align="center" style="margin-top: 0;">Manual & Automation Testing · Flutter Development</h3>
 
 
